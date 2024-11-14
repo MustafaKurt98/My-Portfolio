@@ -62,14 +62,14 @@ Versatile software developer specializing in cross-platform mobile development w
 *Real-time financial market tracking and analysis platform*
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="./assets/para_piyasam/1.png" width="200" height="400" style="object-fit: cover;">
-  <img src="./assets/para_piyasam/2.png" width="200" height="400" style="object-fit: cover;">
-  <img src="./assets/para_piyasam/3.png" width="200" height="400" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/1.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/2.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/3.png" width="180" height="360" style="object-fit: cover;">
 </div>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="./assets/para_piyasam/4.png" width="200" height="400" style="object-fit: cover;">
-  <img src="./assets/para_piyasam/5.png" width="200" height="400" style="object-fit: cover;">
-  <img src="./assets/para_piyasam/6.png" width="200" height="400" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/4.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/5.png" width="180" height="360" style="object-fit: cover;">
+  <img src="./assets/para_piyasam/6.png" width="180" height="360" style="object-fit: cover;">
 </div>
 
 **Teknik Mimari:**
