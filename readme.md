@@ -61,15 +61,17 @@ Versatile software developer specializing in cross-platform mobile development w
 ### Para Piyasam - Financial Markets Application
 *Real-time financial market tracking and analysis platform*
 
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
-<img src="./assets/para_piyasam/1.png" style="object-fit: cover;">
-<img src="./assets/para_piyasam/2.png" style="object-fit: cover;">
-<img src="./assets/para_piyasam/3.png" style="object-fit: cover;">
-</div>
-<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between; align-items: center;">
-<img src="./assets/para_piyasam/4.png" style="object-fit: cover;">
-<img src="./assets/para_piyasam/5.png" style="object-fit: cover;">
-<img src="./assets/para_piyasam/6.png" style="object-fit: cover;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+    <img src="./assets/para_piyasam/1.png" style="object-fit: cover; flex: 1;">
+    <img src="./assets/para_piyasam/2.png" style="object-fit: cover; flex: 1;">
+    <img src="./assets/para_piyasam/3.png" style="object-fit: cover; flex: 1;">
+  </div>
+  <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+    <img src="./assets/para_piyasam/4.png" style="object-fit: cover; flex: 1;">
+    <img src="./assets/para_piyasam/5.png" style="object-fit: cover; flex: 1;">
+    <img src="./assets/para_piyasam/6.png" style="object-fit: cover; flex: 1;">
+  </div>
 </div>
 
 **Teknik Mimari:**
