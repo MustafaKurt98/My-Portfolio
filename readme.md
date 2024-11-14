@@ -8,11 +8,11 @@ Versatile software developer specializing in cross-platform mobile development w
 ### Perfume Atelier - iOS & Android Application
 *Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system*
 
-<div style="display: flex; flex-direction: row; gap: 10px;">
-<img src="./assets/perfume_atelier/IMG_2228-portrait.png" width="180">
-<img src="./assets/perfume_atelier/IMG_2229-portrait.png" width="180">
-<img src="./assets/perfume_atelier/IMG_2230-portrait.png" width="180">
-<img src="./assets/perfume_atelier/IMG_2231-portrait.png" width="180">
+<div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+<img src="./assets/perfume_atelier/IMG_2228-portrait.png" style="flex: 1; margin-right: 10px;">
+<img src="./assets/perfume_atelier/IMG_2229-portrait.png" style="flex: 1; margin-right: 10px;">
+<img src="./assets/perfume_atelier/IMG_2230-portrait.png" style="flex: 1; margin-right: 10px;">
+<img src="./assets/perfume_atelier/IMG_2231-portrait.png" style="flex: 1;">
 
 
 **Technical Infrastructure:**
@@ -24,8 +24,8 @@ Versatile software developer specializing in cross-platform mobile development w
 - FCM Push Notifications
 
 **App Stores:**
-- [App Store](#)
-- [Google Play Store](#)
+- [App Store](https://apps.apple.com/tr/app/perfume-atelier/id6505069260?l=tr)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.osicrew.perfume_atelier&hl=tr)
 
 ---
 
@@ -60,8 +60,18 @@ Versatile software developer specializing in cross-platform mobile development w
 ### Para Piyasam - Financial Markets Application
 *Real-time financial market tracking and analysis platform*
 
-![Para Piyasam Screenshot 1](./assets/images/para_piyasam/screenshot1.png)
-![Para Piyasam Ekran Görüntüsü 2](./assets/images/para_piyasam/screenshot2.png)
+<div style="display: flex; flex-direction: column; gap: 20px;">
+  <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+    <img src="./assets/para_piyasam/1.png" style="flex: 1; margin-right: 10px;">
+    <img src="./assets/para_piyasam/2.png" style="flex: 1; margin-right: 10px;">
+    <img src="./assets/para_piyasam/3.png" style="flex: 1;">
+  </div>
+  <div style="display: flex; flex-direction: row; gap: 10px; justify-content: space-between;">
+    <img src="./assets/para_piyasam/4.png" style="flex: 1; margin-right: 10px;">
+    <img src="./assets/para_piyasam/5.png" style="flex: 1; margin-right: 10px;">
+    <img src="./assets/para_piyasam/6.png" style="flex: 1;">
+  </div>
+</div>
 
 **Teknik Mimari:**
 - Flutter Framework
@@ -113,41 +123,3 @@ Versatile software developer specializing in cross-platform mobile development w
 - E-mail: [mustafakurt98@outlook.com](mailto:mustafakurt98@outlook.com)
 - LinkedIn: [Mustafa Kurt](https://linkedin.com/in/mustafakurt98)
 - GitHub: [MustafaKurt98](https://github.com/mustafakurt98)
-
----
-
-### Ekran Görüntülerini Yükleme Kılavuzu
-
-1. GitHub'da "My Portfolio" adında yeni bir repository oluşturun
-2. Repository'nizi yerel bilgisayarınıza klonlayın:
-   ```
-   git clone https://github.com/kullaniciadi/My-Portfolio.git
-   ```
-
-3. Proje klasörünüzde aşağıdaki klasör yapısını oluşturun:
-   ```
-   assets/
-   └── images/
-       ├── perfume_atelier/
-       ├── tagitag/
-       ├── para_piyasam/
-       └── nobetci_noter/
-   ```
-
-4. Ekran görüntülerinizi ilgili klasörlere kopyalayın
-   - Her görüntüyü optimize edin (önerilen: 1080x1920px, maksimum 500KB)
-   - Görüntü isimlerini anlamlı şekilde adlandırın (örn: ana_ekran.png, detay_ekran.png)
-
-5. README.md dosyasını oluşturun ve yukarıdaki içeriği ekleyin
-
-6. Değişiklikleri commit'leyin ve GitHub'a push'layın:
-   ```
-   git add .
-   git commit -m "Portföy içeriği eklendi"
-   git push origin main
-   ```
-
-*Not: Görüntüleri yüklerken boyut sınırlamalarına dikkat edin. Büyük dosyalar için GitHub LFS kullanmayı düşünebilirsiniz.*
-
-
-
