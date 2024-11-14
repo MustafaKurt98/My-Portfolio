@@ -77,7 +77,7 @@ Versatile software developer specializing in cross-platform mobile development w
   <img src="./assets/para_piyasam/6.png" width="180" height="360" style="object-fit: cover;">
 </div>
 
-**Teknik Mimari:**
+**Technical Architecture:**
 - Flutter Framework
 - GetX State Management
 - Real-Time Data Integration
@@ -97,7 +97,7 @@ Versatile software developer specializing in cross-platform mobile development w
 <img src="./assets/nobetci_noter/4.png" width="200" height="400" style="object-fit: cover;">
 </div>
 
-**Teknik Altyapı:**
+**Technical Infrastructure:**
 - Flutter Framework
 - Google Maps Integration
 - Location Services
