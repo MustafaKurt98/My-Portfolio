@@ -7,10 +7,11 @@ Versatile software developer specializing in cross-platform mobile development w
 
 ### Perfume Atelier - iOS & Android Application
 *Cross-platform perfume e-commerce application developed independently with Flutter, featuring integrated e-POS payment system*
-<img src="./assets/perfume_atelier/IMG_2228-portrait.png" width="200">
-<img src="./assets/perfume_atelier/IMG_2229-portrait.png" width="200">
-<img src="./assets/perfume_atelier/IMG_2230-portrait.png" width="200">
-<img src="./assets/perfume_atelier/IMG_2231-portrait.png" width="200">
+
+<img src="./assets/perfume_atelier/IMG_2228-portrait.png" width="180">
+<img src="./assets/perfume_atelier/IMG_2229-portrait.png" width="180">
+<img src="./assets/perfume_atelier/IMG_2230-portrait.png" width="180">
+<img src="./assets/perfume_atelier/IMG_2231-portrait.png" width="180">
 
 
 **Technical Infrastructure:**
